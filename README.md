@@ -22,6 +22,6 @@ Just an average guy passionate about building software.
 
 ## 📌 Featured Projects
 Here are some of my recent projects:
-- [Repolens]([https://github.com/partha-sarathyy/project1](https://github.com/partha-sarathyy/repolens.git)) - An recently started project for AI assitance using codebase indexing and RAG.
+- [Repolens](https://github.com/partha-sarathyy/repolens.git) - An recently started project for AI assitance using codebase indexing and RAG.
 ---
 ⭐ Feel free to explore my repos!!!
