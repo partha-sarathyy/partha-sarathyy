@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Partha Sarathy
 
-<!--
-**partha-sarathyy/partha-sarathyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! 
+Just an average guy passionate about building software.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Full-stack developer
+- 🌱 Always learning and growing
+- 🎯 Focused on clean code and best practices
+- 🤝 Open to collaboration and new opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Skills
+- **Languages**: Typescript.
+- **Frontend**: React, HTML/CSS
+- **Backend**: Node.js
+- **Tools**: Git, Linux, CI/CD
+
+
+## 🔗 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/parthasarathyyy-m/)
+- 📧 Email: parthasarathyvenkidusamym@gmail.com
+
+## 📌 Featured Projects
+Here are some of my recent projects:
+- [Repolens]([https://github.com/partha-sarathyy/project1](https://github.com/partha-sarathyy/repolens.git)) - An recently started project for AI assitance using codebase indexing and RAG.
+---
+⭐ Feel free to explore my repos!!!
